@@ -11,4 +11,4 @@ spec:
     results:
     - name: IMAGE_URL
       description:  Contains the SBOM link
-      value: $(tasks.sbom-task.results.LINK_TO_SBOM)
+      value: $(tasks.sbom-task-external-link.results.LINK_TO_SBOM)
