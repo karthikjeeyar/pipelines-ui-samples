@@ -55,10 +55,10 @@ metadata:
     task.results.key: LINK_TO_SBOM
 spec: …
 status: 
-    results:
- name: 'LINK_TO_SBOM'
- type: 'string'
- value: 'quay.io/repo/image:build-8e536-1692702836'
+  results:
+       name: 'LINK_TO_SBOM'
+       type: 'string'
+       value: 'quay.io/repo/image:build-8e536-1692702836'
 
 ```
 
